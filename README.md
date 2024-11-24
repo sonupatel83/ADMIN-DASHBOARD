@@ -1,2 +1,2 @@
-# ADMIN-DASHBOARD
- Admin dashboard of youtbe studio
+# admin-dashboard
+ Interactive User Interface admin dashboard 
